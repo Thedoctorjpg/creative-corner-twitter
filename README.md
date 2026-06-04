@@ -120,3 +120,29 @@ Built from the comprehensive "Creative Corner" feature vision and X promotion st
 Enjoy creating and sharing! 🚀✨
 
 Questions or want to expand a niche (e.g. deeper VTuber model reveal tools)? Just say the word.
+
+## Development
+
+This project is version controlled with Git.
+
+```bash
+# The repo was initialized with:
+git init
+git add .
+git commit -m "Initial commit: Creative Corner prototype"
+
+# Current branch
+git branch -v
+
+# To view history
+git log --oneline --graph
+```
+
+### Recommended next steps for real development
+- Rename to `main` if not already (done in this setup).
+- Add a remote: `git remote add origin https://github.com/yourname/creative-corner.git`
+- `git push -u origin main`
+- Consider extracting to a small Vite / vanilla TS project if you want components, TypeScript, or real backend later.
+- The `.gitignore` is set up for web prototypes (no node_modules unless you add them).
+
+All features are in `index.html` for zero-install prototyping. The app is fully functional locally.
