@@ -1,5 +1,7 @@
 # Creative Corner
 
+**Repository:** https://github.com/Thedoctorjpg/creative-corner-twitter
+
 A beautiful, self-contained web prototype for creatives — artists, tattoo studios, graphic designers, VTubers, photographers, musicians — to showcase work, collaborate, and promote with seamless X (Twitter) integration.
 
 **X as the viral engine.** One-click optimized posts, challenges, threads, analytics simulation, and real web intents for actual posting.
